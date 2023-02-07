@@ -1,7 +1,10 @@
 # CLP_DB_GS 
+
 # password Cracking and Security
+
 # Overview
 As a governance analyst it is part of your duties to assess the level of protection offered by implemented controls and minimize the probability of a successful breach. You often need to know the techniques used by hackers to circumvent implemented controls and propose uplifts to increase the overall level of security in an organization. Gaining valid credentials gives the attackers access to the organization’s IT system, thus circumventing most of perimeter controls in place.
+
 # project objecture
 
 What type of hashing algorithm was used to protect passwords?
@@ -53,9 +56,11 @@ Annam Sai Vamshi,
 
 B.Tech, Computer Science and Engineering.
 
+
 # Observations:
 
 Security Algorithms used : MD5
+
 
 experthead:e10adc3949ba59abbe56e057f20f883e
 
@@ -94,6 +99,8 @@ moodie:8d763385e0476ae208f21bc63956f748
 nabox:defebde7b6ab6f24d5824682a16c3ae4
 
 bandalls:bdda5f03128bcbdfa78d8934529048cf
+
+
 
 Cracked Passwords: 
 
@@ -135,7 +142,9 @@ defebde7b6ab6f24d5824682a16c3ae4:nAbox!1
 
 bdda5f03128bcbdfa78d8934529048cf:Bandalls
 
+
 Complete Report: https://github.com/Saivamshi13/GS
+
 
 References: 
 
