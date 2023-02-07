@@ -95,4 +95,9 @@ f6a0cb102c62879d397b12b62c092c06:bluered
 defebde7b6ab6f24d5824682a16c3ae4:nAbox!1
 bdda5f03128bcbdfa78d8934529048cf:Bandalls
 
-Complete Report:
+Complete Report: https://github.com/Saivamshi13/GS
+
+References: 
+https://www.dcode.fr/hash-function
+https://md5decrypt.net/en/#answer
+https://en.wikipedia.org/wiki/Password_cracking#Software
